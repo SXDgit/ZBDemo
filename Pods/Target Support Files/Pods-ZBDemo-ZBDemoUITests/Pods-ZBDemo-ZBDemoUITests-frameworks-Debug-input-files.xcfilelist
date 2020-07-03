@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-ZBDemo-ZBDemoUITests/Pods-ZBDemo-ZBDemoUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ZBLogin/ZBLogin.framework
+${BUILT_PRODUCTS_DIR}/ZBTools/ZBTools.framework

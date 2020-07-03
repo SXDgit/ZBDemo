@@ -1,0 +1,6 @@
+framework module ZBLogin {
+  umbrella header "ZBLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}

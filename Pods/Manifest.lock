@@ -1,0 +1,22 @@
+PODS:
+  - ZBLogin (0.1.0):
+    - ZBTools
+  - ZBTools (0.1.0)
+
+DEPENDENCIES:
+  - ZBLogin (from `Lib/ZBLogin`)
+  - ZBTools (from `Lib/ZBTools`)
+
+EXTERNAL SOURCES:
+  ZBLogin:
+    :path: Lib/ZBLogin
+  ZBTools:
+    :path: Lib/ZBTools
+
+SPEC CHECKSUMS:
+  ZBLogin: 5fc7d954e217d0adc375d1889a6e676187dc9ad5
+  ZBTools: 6a1369189ede5bd9cad9d6c9f9a515ec1ba5eb3b
+
+PODFILE CHECKSUM: 3352d59a8b1850a639c41265635ada428acbbcfb
+
+COCOAPODS: 1.9.1

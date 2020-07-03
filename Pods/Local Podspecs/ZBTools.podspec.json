@@ -1,0 +1,22 @@
+{
+  "name": "ZBTools",
+  "version": "0.1.0",
+  "summary": "A short description of ZBTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SXDgit/ZBTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SXDgit": "1029520524@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/SXDgit/ZBTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZBTools/Classes/**/*"
+}

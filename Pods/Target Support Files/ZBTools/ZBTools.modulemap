@@ -1,0 +1,6 @@
+framework module ZBTools {
+  umbrella header "ZBTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
